@@ -1,0 +1,17 @@
+PODS:
+  - BetterSegmentedControl (0.5)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - BetterSegmentedControl (~> 0.5)
+  - SDWebImage (~> 3.8)
+
+SPEC CHECKSUMS:
+  BetterSegmentedControl: db74c56602e418e9eca8f6340e0ed0a7215f5f7c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 01faa68308b432ba441df7f65020e1e6f7e0a281
+
+COCOAPODS: 1.1.1
