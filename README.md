@@ -1,3 +1,5 @@
+[Download Quick Memes: Your daily dose of memes on the App Store!](https://itunes.apple.com/us/app/quick-memes-your-daily-dose/id1180346107?ls=1&mt=8)
+
 # QuickMemes
 QuickMemes is an iOS application that provides the user with a handful of trending memes on Twitter. The app only displays up to 25 memes per section (Popular, New, and Top). You're also able to share some memes with your friends on Twitter! The idea is to get a quick fix for your meme-addiction without wasting more time than necessary to stay up to date with the latest memes. 
 
